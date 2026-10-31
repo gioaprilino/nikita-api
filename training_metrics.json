@@ -1,0 +1,27 @@
+{
+  "auc": 0.9999497386409328,
+  "average_precision": 0.9811320754716981,
+  "precision": 0.9811320754716981,
+  "recall": 1.0,
+  "f1": 0.9904761904761905,
+  "confusion_matrix": [
+    [
+      19894,
+      2
+    ],
+    [
+      0,
+      104
+    ]
+  ],
+  "n_test": 20000,
+  "n_positive_test": 104,
+  "n_train_fit": 64000,
+  "n_cal": 16000,
+  "n_positive_total": 518,
+  "scale_pos_weight": 192.3534743202417,
+  "sklearn_version": "1.6.1",
+  "xgboost_version": "3.4.1",
+  "shap_version": "0.52.0",
+  "pandas_version": "2.3.3"
+}

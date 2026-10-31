@@ -1,0 +1,8 @@
+PSTV01,PSTV05,PSTV03,usia_saat_kunjungan,tanggal,FKP05_NEW,FKL05_NEW,FKP06,FKL06,FKP14A,FKL17A,frekuensi_kunjungan_hari_itu,is_spatial_anomaly,is_gender_mismatch,is_age_mismatch,label
+29076925,1,2002-01-13,22,2024-02-06,74,74,7405,7471,O42,O42,2,True,True,False,Anomali
+306127053,1,1995-12-22,28,2024-09-17,19,19,1904,1971,Z34,O82,2,True,True,False,Anomali
+2196900,1,2000-03-01,24,2024-05-16,11,11,1111,1174,Z34,O32,1,True,True,False,Anomali
+17385295,1,1997-07-08,27,2024-07-11,35,33,3522,3316,Z35,O43,1,True,True,False,Anomali
+77353800,1,1959-06-26,65,2024-10-15,15,15,1508,1509,O85,Z09,1,True,True,False,Anomali
+64820391,2,2014-12-11,9,2024-08-16,18,18,1804,1872,E11,E11,1,True,False,True,Perlu review manusia
+409764,2,1996-02-03,28,2024-10-24,16,16,1604,1604,J06,Z09,1,False,False,False,Normal
